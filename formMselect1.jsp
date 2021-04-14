@@ -11,7 +11,6 @@
 <% String [] uMeal=request.getParameterValues("meal");%>
 <h2>식사:
 <%
-{%
 for(int i=0; i<uMeal.length; i++) {
 out.println(uMeal[i]);
 }
