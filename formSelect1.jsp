@@ -11,4 +11,5 @@
 <h2>식사 : <%=request.getParameter("meal")%><br/></h2>
 </section>
 </section>
+</section>
 </body></html>
